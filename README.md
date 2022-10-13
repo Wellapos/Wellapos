@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellapos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellapos&show_icons=true&theme=radical)](https://github.com/wellapos/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=wellapos&layout=compact&theme=dark&custom_title=Week%20Stats" /></a>
 
